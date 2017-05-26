@@ -23,6 +23,11 @@
     </div>
 
     {% include scripts.html %}
+    
+    <!-- LL 10/02/2017 -->
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}    
 
   </body>
 </html>
