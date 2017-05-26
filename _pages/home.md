@@ -16,7 +16,7 @@ Current research efforts are centered around similarly named [COMHIS consortium]
 
 The core methodology in our research is shaped by open data analytical ecosystems. These provide transparent and reproducible approach for historical data analysis, as well as generic algorithmic tools that can be applied also more widely in related studies. 
 
-[comhis-hy]: https://comhis.github.io
+[comhis-hy]: https://www.helsinki.fi/en/researchgroups/digital-humanities/research#section-13696
 
 [comhis-utu]: https://www.utu.fi/fi/yksikot/hum/yksikot/kulttuurihistoria/tutkimus/Sivut/comhis.aspx
 
