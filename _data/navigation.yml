@@ -4,9 +4,9 @@ main:
   #   url: /about/
   - title: "People"
     url: /people/
-  - title: "Stories"
-    url: /stories/
-  # - title: "Publications"
-  #   url: /publications/
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Posts"
+    url: /posts/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/

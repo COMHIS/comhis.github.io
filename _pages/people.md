@@ -1,8 +1,10 @@
 ---
 layout: single
 permalink: /people/
+title: "People"
 header:
-  image: /assets/images/people.png
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/publications.png
 ---
 The collective is loosely organized, and takes valuable input and contributions from a wide group of people. The following people, in no particular order, are heavily committed into our work:
 
@@ -11,7 +13,7 @@ The collective is loosely organized, and takes valuable input and contributions 
 {% for author in site.data.authors %}
 <div itemscope itemtype="http://schema.org/Person" class = "people-page">
 
-  <div class = "author__bio-wrapper">
+  <div class = "author__bio-wrapper" id="{{author[1].github}}" >
     {% if author[1].avatar %}
       <div class="author__avatar">
         {% if author[1].avatar contains "://" %}

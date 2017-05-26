@@ -4,7 +4,12 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/landing2.png
+  # cta_label: "Read more <i class='fa fa-arrow-right'></i>"
+  # cta_url: "/data-mining/bsecs17-session-on-data-mining-ecco-and-estc/"
+  caption:
+excerpt: 'COMHIS Collective will organise a demo-session on “Analysing eighteenth-century key-terms and phrases using ECCO and ESTC” at the British Society for Eighteenth-Century Studies annual conference at Oxford (4-6 January 2017). <br /> [Read more <i class="fa fa-arrow-right"></i>](/data-mining/bsecs17-session-on-data-mining-ecco-and-estc/){: .btn .btn-page-lead-teaser}'
 ---
+
 The COMHIS Collective is a group of historians, computer scientists, linguists and digital humanists brought together by shared research interest and interactions centered at the University of Helsinki (Faculty of Humanities), and including further members from University of Turku, Finnish national library, and Aalto University.
 
 Current research efforts are centered around similarly named [COMHIS consortium][comhis-consortium], where we focus on identifying overlooked moments of transformation in public discourse in Europe between 17th and 19th century by blending historical and computational approaches. The research highlights how social change and public discourse are intertwined, and how cultural, institutional, legal and technological changes are reflected both in publication metadata and the textual content of the publications.

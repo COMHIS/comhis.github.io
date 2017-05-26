@@ -46,6 +46,10 @@
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  /*font-size: $type-size-4;*/
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 0.5em;
+  border-radius: 0.2em;
 }
 
 .page__content {
@@ -55,9 +59,20 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
-    font-size: 1em;
+  /*p, li, dl {
+    font-size: $type-size-5;
+  }*/
+
+  p {
+    font-size: $type-size-5;
+    /*font-size: 1em;*/
   }
+
+  li, dl {
+    font-size: $type-size-6;
+    /*font-size: 1em;*/
+  }
+
 
   /* paragraph indents */
   p {
@@ -146,8 +161,20 @@
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
+    .btn-page-lead-teaser {
+      border: 1px solid #fff !important;
+      background-color: rgba(0, 0, 0, 0.5);
+      margin-top: 0.5em;
+
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.5);
+      }
+    }
+
+
+
     .page__lead {
-      max-width: $medium;
+      max-width: $medium-wide;
     }
 
     .page__title {
