@@ -7,7 +7,7 @@ header:
   # cta_label: "Read more <i class='fa fa-arrow-right'></i>"
   # cta_url: "/data-mining/bsecs17-session-on-data-mining-ecco-and-estc/"
   caption:
-excerpt: 'COMHIS Collective will organise a demo-session on “Analysing eighteenth-century key-terms and phrases using ECCO and ESTC” at the British Society for Eighteenth-Century Studies annual conference at Oxford (4-6 January 2017). <br /> [Read more <i class="fa fa-arrow-right"></i>](/data-mining/bsecs17-session-on-data-mining-ecco-and-estc/){: .btn .btn-page-lead-teaser}'
+excerpt: '"Never Mine the Mind?" symposium on computational approaches to intellectual history and the history of philosophy held in Helsinki on 31st May. Free of charge. <br /> [Read more and register <i class="fa fa-arrow-right"></i>](https://www.helsinki.fi/en/researchgroups/digital-humanities/never-mine-the-mind){: .btn .btn-page-lead-teaser}'
 ---
 
 The COMHIS Collective is a group of historians, computer scientists, linguists and digital humanists brought together by shared research interest and interactions centered at the University of Helsinki (Faculty of Humanities), and including further members from University of Turku, Finnish national library, and Aalto University.
