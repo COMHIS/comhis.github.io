@@ -25,6 +25,7 @@ Select publications and presentations by people associated with COMHIS Collectiv
 - [ESTC cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/estc)
 - [Fennica cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/fennica)
 - [Kungliga cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/kungliga)
+- [CERL cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/cerl)
 - [Recon multipurpose tool for semi-automatic matching of entities against a SPARQL authority](https://github.com/jiemakel/recon)
 - [Octavo API for text and metadata <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo)
 - [Octavo UI for the API <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo-ui)
