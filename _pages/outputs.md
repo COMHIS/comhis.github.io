@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Publications and Presentations"
+title: "Publications, Presentations, Code and Data"
 permalink: /publications/
 header:
   overlay_color: "#5e616c"
