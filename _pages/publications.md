@@ -21,7 +21,10 @@ Select publications and presentations by people associated with COMHIS Collectiv
 
 ## Data and code
 
+- [General library catalogue cleanup pipeline (bibliographica) <i class="fa fa-link"></i>](https://github.com/rOpenGov/bibliographica)
 - [ESTC cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/estc)
+- [Fennica cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/fennica)
+- [Kungliga cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/kungliga)
 - [Octavo API for text and metadata <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo)
 - [Octavo UI for the API <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo-ui)
 - [Octavo UI for the API <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo-ui)
