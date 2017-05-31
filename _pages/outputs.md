@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications, Presentations, Code and Data"
-permalink: /publications/
+permalink: /outputs/
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/publications.png
