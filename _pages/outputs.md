@@ -27,6 +27,5 @@ Select publications and presentations by people associated with COMHIS Collectiv
 - [Kungliga cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/kungliga)
 - [Octavo API for text and metadata <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo)
 - [Octavo UI for the API <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo-ui)
-- [Octavo UI for the API <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo-ui)
 - [Shiny apps for visualizing ESTC/ECCO on top of the Octavo API <i class="fa fa-link"></i>](https://github.com/COMHIS/ecco-shinyapps)
 - [Public data <i class="fa fa-link"></i>](https://github.com/COMHIS/data-public)
