@@ -6,7 +6,7 @@ main:
     url: /people/
   - title: "Posts"
     url: /posts/
-  - title: "Publications"
-    url: /publications/
+  - title: "Outputs"
+    url: /outputs/
   - title: "Contact"
     url: /contact/
