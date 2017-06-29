@@ -6,7 +6,7 @@ categories:
   - posters
 author_profile: false
 ---
-For some time now, it's been clear that there has been a need to present the totality of our work, in the sense of communicating the motivations, aims, methods and organization of COMHIS in a concise format. The upcoming poster session at [Digital Humanities at Oxford Summer School][dhoxss] gave us an opportunity to do just this. Here's a web version of that poster.
+For some time now, it's been clear that there is a need to present the totality of our work- communicating the motivations, aims, methods and organization of COMHIS in a concise format. The upcoming poster session at [Digital Humanities at Oxford Summer School][dhoxss] gave us an opportunity to do so. Here's a web version of that poster.
 
 ***
 
