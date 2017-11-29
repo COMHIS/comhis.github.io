@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "COMHIS Collective"
+title                    : "Helsinki Computational History Group"
 title_separator          : "-"
 name                     : ""
 description              : "University of Helsinki section of the COMHIS research group."
