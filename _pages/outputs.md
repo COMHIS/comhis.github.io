@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/publications.png
 ---
 
-Select publications, presentations, data, and code by people associated with COMHIS Collective.
+Select publications, presentations, data, and code by people associated with Helsinki Computational History Group.
 
 ## Publications
 
