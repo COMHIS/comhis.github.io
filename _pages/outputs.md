@@ -43,6 +43,10 @@ Select publications, presentations, data, and code by people associated with Hel
 - [Shiny apps for visualizing ESTC/ECCO on top of the Octavo API <i class="fa fa-link"></i>](https://github.com/COMHIS/ecco-shinyapps)
 - [Public data <i class="fa fa-link"></i>](https://github.com/COMHIS/data-public)
 
+## Supplementary material for publications
+
+- [CCQ](2019_CCQ.md)
+
 
 
 
