@@ -45,7 +45,7 @@ Select publications, presentations, data, and code by people associated with Hel
 
 ## Supplementary material for publications
 
-- [CCQ](2019_CCQ.md)
+- [CCQ](https://comhis.github.io/2019_CCQ/)
 
 
 
