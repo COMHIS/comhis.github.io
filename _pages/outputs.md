@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/publications.png
 ---
 
-Select publications, presentations, data, and code by people associated with COMHIS Collective.
+Select publications, presentations, data, and code by people associated with Helsinki Computational History Group.
 
 ## Publications
 
@@ -42,6 +42,10 @@ Select publications, presentations, data, and code by people associated with COM
 - [Octavo UI for the API <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo-ui)
 - [Shiny apps for visualizing ESTC/ECCO on top of the Octavo API <i class="fa fa-link"></i>](https://github.com/COMHIS/ecco-shinyapps)
 - [Public data <i class="fa fa-link"></i>](https://github.com/COMHIS/data-public)
+
+## Supplementary material for publications
+
+- [CCQ](https://comhis.github.io/2019_CCQ/)
 
 
 
