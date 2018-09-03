@@ -74,3 +74,10 @@ Hege Roivainen:
   bio: "MA student in Language technology & Latin. Works mainly with library catalogues."
   avatar: "/assets/images/avatars/hege_roivanen150x150.jpg"
 
+Antti Kanner:
+  name: Antti Kanner
+  uri: "https://tuhat.helsinki.fi/portal/en/persons/antti-kanner(2fb15192-1166-4b76-8544-9b0e83dfd771).html"
+  bio: "Doctoral student at the University of Helsinki. Research interests: corpus and computational linguistics, semantics, Finnish language, digital humanities."
+  email: antti.kanner@helsinki.fi
+  #avatar: "/assets/images/avatars/hege_roivanen150x150.jpg"
+
