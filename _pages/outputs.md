@@ -9,8 +9,12 @@ header:
 
 Select publications, presentations, data, and code by people associated with Helsinki Computational History Group.
 
+
 ## Publications
 
+-  Bibliographic Data Science and the History of the Book (c. 1500–1800). *Leo Lahti, Jani Marjanen, Hege Roivainen, Mikko Tolonen. Cataloging & Classification Quarterly, 1–19, 2019.* Special issue. [Publication <i class="fa fa-link"></i>](http://doi.org/10.1080/01639374.2018.1543747)]
+- A Quantitative Approach to Book-Printing in Sweden and Finland, 1640–1828. *Mikko Tolonen, Leo Lahti, Hege Roivainen, Jani Marjanen. Historical Methods: A Journal of Quantitative and Interdisciplinary History, 1–22, 2018.* [Publication <i class="fa fa-link"></i>](http://doi.org/10.1080/01615440.2018.1526657)]
+- Digitaaliset ihmistieteet ja historiantutkimus. *Mikko Tolonen and Leo Lahti. 2018.* (in Finnish). In: Hannikainen, MO and Danielsbacka, M and Tepora, T (eds.). Menneisyyden rakentajat. Gaudeamus, Helsinki, 2018. [Publication <i class="fa fa-link"></i>](https://www.gaudeamus.fi/menneisyyden-rakentajat/)]
 - Alchemy & algorithms: perspectives on the philosophy and history of open science. *Leo Lahti, Filipe da Silva, Markus Petteri Laine, Viivi Lähteenoja, Mikko Tolonen. RIO Journal 3:e13593, 2017.* [Publication <i class="fa fa-link"></i>](https://doi.org/10.3897/rio.3.e13593)
 - Retrieval and Analysis of Eurostat Open Data with the eurostat Package. *Leo Lahti, Janne Huovari, Markus Kainu, Przemysław Biecek. R Journal 2017.* [Publication <i class="fa fa-link"></i>](https://journal.r-project.org/archive/2017/RJ-2017-019/index.html)
 - A Quantitative Study of History in the English Short-Title Catalogue (ESTC) 1470-1800. *Leo Lahti, Niko Ilomäki, Mikko Tolonen. LIBER Quarterly 25(2):87-116, 2015.* [Publication <i class="fa fa-link"></i>](https://www.liberquarterly.eu/articles/10.18352/lq.10112/) \| [PDF <i class="fa fa-file-pdf-o"></i>](/assets/files/10112-21651-1-PB.pdf)
@@ -35,11 +39,11 @@ Select publications, presentations, data, and code by people associated with Hel
 
 ## Data and code
 
-- [General library catalogue cleanup pipeline (bibliographica) <i class="fa fa-link"></i>](https://github.com/rOpenGov/bibliographica)
-- [ESTC cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/estc)
-- [Fennica cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/fennica)
-- [Kungliga cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/kungliga)
-- [CERL cleanup pipeline <i class="fa fa-link"></i>](https://github.com/rOpenGov/cerl)
+- [General library catalogue cleanup pipeline (bibliographica) <i class="fa fa-link"></i>](https://github.com/COMHIS/bibliographica)
+- [ESTC cleanup pipeline <i class="fa fa-link"></i>](https://github.com/COMHIS/estc)
+- [Fennica cleanup pipeline <i class="fa fa-link"></i>](https://github.com/COMHIS/fennica)
+- [Kungliga cleanup pipeline <i class="fa fa-link"></i>](https://github.com/COMHIS/kungliga)
+- [HPBD cleanup pipeline <i class="fa fa-link"></i>](https://github.com/COMHIS/cerl)
 - [Recon multipurpose tool for semi-automatic matching of entities against a SPARQL authority](https://github.com/jiemakel/recon)
 - [Octavo API for text and metadata <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo)
 - [Octavo UI for the API <i class="fa fa-link"></i>](https://github.com/jiemakel/octavo-ui)
