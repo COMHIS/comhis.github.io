@@ -7,7 +7,7 @@ header:
   # cta_label: "Read more <i class='fa fa-arrow-right'></i>"
   # cta_url: "/data-mining/bsecs17-session-on-data-mining-ecco-and-estc/"
   caption:
-excerpt: 'COMHIS is heavily involved in the coming Di­gital Hu­man­it­ies in the Nor­dic Coun­tries 3rd Con­fer­ence, 7–9 March 2018, Hel­sinki.<br /> [Read more <i class="fa fa-arrow-right"></i>](https://www.helsinki.fi/en/helsinki-centre-for-digital-humanities/dhn-2018){: .btn .btn-page-lead-teaser}'
+excerpt: 'COMHIS has moved! New website: [Read more <i class="fa fa-arrow-right"></i>](https://www.helsinki.fi/en/researchgroups/computational-history){: .btn .btn-page-lead-teaser}'
 ---
 
 Helsinki Computational History Group is a group of historians, computer scientists, linguists and digital humanists brought together by shared research interest and interactions centered at the University of Helsinki (Faculty of Humanities), and including further members from University of Turku, Finnish national library, and Aalto University.
