@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html>
-   <head>
-    <link rel="stylesheet" href="style.css">
-      <title>Helsinki Computational History Group</title>
-      <meta http-equiv = "refresh" content = "5; url = https://www.helsinki.fi/en/researchgroups/computational-history" />
-   </head>
-   <body>
-      <h1 style="text-align:center">COMHIS has moved! New website:</h1>
-      <p style="text-align:center"><a href="https://www.helsinki.fi/en/researchgroups/computational-history">helsinki.fi/en/researchgroups/computational-history</a></p>
-      <p style="text-align:center">You will be redirected automatically in 5 seconds.</p> 
-   </body>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Helsinki Computational History Group</title>
+        <meta http-equiv = "refresh" content = "5; url = https://www.helsinki.fi/en/researchgroups/computational-history" />
+    </head>
+    <body>
+        <h1>COMHIS has moved! New website:</h1>
+        <p><a href="https://www.helsinki.fi/en/researchgroups/computational-history">helsinki.fi/en/researchgroups/computational-history</a></p>
+        <p>You will be redirected automatically in <span id="countdown">5</span> seconds.</p>
+        <script type="text/javascript">
+        // Total seconds to wait
+        var seconds = 5;
+        function countdown() {
+            seconds = seconds - 1;
+            if (seconds < 0) {
+                // Chnage your redirection link here
+                window.location = "https://www.helsinki.fi/en/researchgroups/computational-history";
+            } else {
+                // Update remaining seconds
+                document.getElementById("countdown").innerHTML = seconds;
+                // Count down using javascript
+                window.setTimeout("countdown()", 1000);
+            }
+        }
+        // Run countdown function
+        countdown();
+        </script>
+    </body>
 </html>
