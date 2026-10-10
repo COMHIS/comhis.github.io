@@ -47,7 +47,7 @@ a { color: inherit; }
   z-index: 10;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
   max-width: 1480px;
   margin: 0 auto;
   padding: 2rem clamp(1.4rem, 4vw, 4.5rem);
@@ -77,16 +77,6 @@ a { color: inherit; }
 .brand small { display: block; }
 .brand strong { font-size: .86rem; }
 .brand small { font-size: .6rem; opacity: .7; }
-
-nav { display: flex; gap: clamp(1rem, 3vw, 2.75rem); }
-nav a {
-  border-bottom: 1px solid transparent;
-  font-size: .74rem;
-  letter-spacing: .13em;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-nav a:hover, nav a:focus-visible { border-color: currentColor; }
 
 .hero {
   position: relative;
@@ -144,7 +134,7 @@ h1 em { color: #d67b58; font-weight: 400; }
 
 .lede {
   max-width: 690px;
-  margin-bottom: 2.4rem;
+  margin-bottom: 0;
   color: rgba(248,244,234,.78);
   font-family: var(--serif);
   font-size: clamp(1.15rem, 1.8vw, 1.55rem);
@@ -318,7 +308,6 @@ footer { display: flex; justify-content: space-between; gap: 2rem; padding: 2.2r
 footer p { margin: 0; }
 
 @media (max-width: 900px) {
-  nav { display: none; }
   .hero { grid-template-columns: 1fr; gap: 4rem; min-height: auto; }
   .folio { width: 100%; max-width: 600px; margin: 0; }
   .band, .allusion-intro, .hume, .sources { grid-template-columns: 1fr; }
